@@ -1,0 +1,123 @@
+m_date,Player ID,Player_surname,Player_firstname,Team,Team Id,Opposition,Opposition id,Mins Played,Goals,Shots On Target,Shots Off Target,Penalty Goals,Total Successful Passes,Total Unsuccessful Passes
+2012-05-06,11378,Williamson,Michael,Newcastle United,4,Manchester City,43,90,0,0,0,0,24,8
+2012-04-21,11378,Williamson,Michael,Newcastle United,4,Stoke City,110,90,0,0,0,0,37,7
+2012-01-15,11378,Williamson,Michael,Newcastle United,4,Queens Park Rangers,52,90,0,0,0,0,43,14
+2012-03-18,11378,Williamson,Michael,Newcastle United,4,Norwich City,45,90,0,0,0,0,26,15
+2012-04-01,11378,Williamson,Michael,Newcastle United,4,Liverpool,14,90,0,1,2,0,22,5
+2012-05-01,32318,Wilson,Marc,Stoke City,110,Everton,11,90,0,0,0,0,16,18
+2011-09-24,32318,Wilson,Marc,Stoke City,110,Manchester United,1,90,0,1,1,0,20,10
+2012-04-28,32318,Wilson,Marc,Stoke City,110,Arsenal,3,90,0,0,0,0,27,10
+2012-04-07,32318,Wilson,Marc,Stoke City,110,Wolverhampton Wanderers,39,90,0,0,1,0,20,11
+2012-02-26,32318,Wilson,Marc,Stoke City,110,Swansea City,80,90,0,0,0,0,10,7
+2011-08-14,32318,Wilson,Marc,Stoke City,110,Chelsea,8,90,0,0,0,0,13,12
+2011-10-15,32318,Wilson,Marc,Stoke City,110,Fulham,54,90,0,0,1,0,25,15
+2011-12-26,32318,Wilson,Marc,Stoke City,110,Aston Villa,7,90,0,1,0,0,16,6
+2012-01-21,32318,Wilson,Marc,Stoke City,110,West Bromwich Albion,35,90,0,0,1,0,21,15
+2011-09-10,32318,Wilson,Marc,Stoke City,110,Liverpool,14,90,0,0,0,0,7,6
+2012-03-24,32318,Wilson,Marc,Stoke City,110,Manchester City,43,90,0,0,0,0,14,7
+2011-12-11,32318,Wilson,Marc,Stoke City,110,Tottenham Hotspur,6,90,0,0,0,0,18,7
+2011-11-26,32318,Wilson,Marc,Stoke City,110,Blackburn Rovers,5,90,0,0,0,0,35,13
+2011-10-31,32318,Wilson,Marc,Stoke City,110,Newcastle United,4,41,0,0,1,0,10,4
+2011-12-31,32318,Wilson,Marc,Stoke City,110,Wigan Athletic,111,90,0,0,2,0,26,14
+2012-02-04,32318,Wilson,Marc,Stoke City,110,Sunderland,56,90,0,0,0,0,28,15
+2012-03-03,32318,Wilson,Marc,Stoke City,110,Norwich City,45,90,0,0,0,0,16,14
+2011-09-24,973,Woodgate,Jonathan,Stoke City,110,Manchester United,1,90,0,0,1,0,14,3
+2011-08-14,973,Woodgate,Jonathan,Stoke City,110,Chelsea,8,90,0,0,0,0,5,6
+2011-12-26,973,Woodgate,Jonathan,Stoke City,110,Aston Villa,7,71,0,0,0,0,16,10
+2012-01-21,973,Woodgate,Jonathan,Stoke City,110,West Bromwich Albion,35,53,0,0,0,0,10,7
+2011-12-11,973,Woodgate,Jonathan,Stoke City,110,Tottenham Hotspur,6,84,0,0,0,0,9,3
+2011-10-31,973,Woodgate,Jonathan,Stoke City,110,Newcastle United,4,90,0,0,0,0,17,5
+2012-02-04,973,Woodgate,Jonathan,Stoke City,110,Sunderland,56,46,0,0,0,0,12,3
+2011-09-25,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Aston Villa,7,87,0,1,1,0,15,8
+2012-02-25,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Fulham,54,83,0,1,1,0,38,8
+2012-01-02,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Norwich City,45,45,0,1,1,0,10,5
+2011-12-18,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Manchester United,1,65,0,0,2,0,14,8
+2012-02-04,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Wolverhampton Wanderers,39,90,0,0,0,0,30,12
+2012-01-21,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Wigan Athletic,111,90,0,0,0,0,21,6
+2012-03-31,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Arsenal,3,1,0,0,0,0,0,0
+2011-12-03,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,West Bromwich Albion,35,90,0,0,3,0,27,5
+2011-10-15,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Blackburn Rovers,5,83,0,0,2,0,12,5
+2012-03-03,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Everton,11,90,0,1,1,0,11,9
+2012-05-06,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Stoke City,110,8,0,0,0,0,2,1
+2011-09-12,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Newcastle United,4,88,0,1,4,0,21,5
+2011-10-23,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Chelsea,8,90,0,0,2,0,21,7
+2012-04-11,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Swansea City,80,12,0,0,2,0,6,2
+2011-11-05,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Manchester City,43,90,0,0,0,0,27,7
+2011-12-21,1212,Wright-Phillips,Shaun,Queens Park Rangers,52,Sunderland,56,45,0,0,1,0,11,7
+2012-01-22,86364,Yennaris,Nicholas,Arsenal,3,Manchester United,1,45,0,0,0,0,20,7
+2011-10-23,18892,Young,Ashley,Manchester United,1,Manchester City,43,90,0,0,1,0,26,15
+2011-11-26,18892,Young,Ashley,Manchester United,1,Newcastle United,4,90,0,0,2,0,31,17
+2011-08-28,18892,Young,Ashley,Manchester United,1,Arsenal,3,90,2,4,0,0,49,10
+2012-05-06,18892,Young,Ashley,Manchester United,1,Swansea City,80,90,1,1,0,0,49,25
+2011-12-10,18892,Young,Ashley,Manchester United,1,Wolverhampton Wanderers,39,13,0,0,0,0,5,0
+2012-04-15,18892,Young,Ashley,Manchester United,1,Aston Villa,7,61,0,0,0,0,26,9
+2012-03-11,18892,Young,Ashley,Manchester United,1,West Bromwich Albion,35,90,0,2,1,0,40,17
+2011-09-18,18892,Young,Ashley,Manchester United,1,Chelsea,8,90,0,1,0,0,44,9
+2011-08-22,18892,Young,Ashley,Manchester United,1,Tottenham Hotspur,6,82,0,1,2,0,37,14
+2012-03-26,18892,Young,Ashley,Manchester United,1,Fulham,54,90,0,3,0,0,42,14
+2012-04-08,18892,Young,Ashley,Manchester United,1,Queens Park Rangers,52,62,0,0,1,0,35,15
+2012-04-11,20658,Zabaleta,Pablo,Manchester City,43,West Bromwich Albion,35,9,0,0,0,0,4,1
+2012-05-13,20658,Zabaleta,Pablo,Manchester City,43,Queens Park Rangers,52,90,1,1,1,0,74,21
+2012-03-21,20658,Zabaleta,Pablo,Manchester City,43,Chelsea,8,90,0,0,0,0,35,11
+2011-12-18,20658,Zabaleta,Pablo,Manchester City,43,Arsenal,3,90,0,0,1,0,24,5
+2012-02-25,20658,Zabaleta,Pablo,Manchester City,43,Blackburn Rovers,5,90,0,0,1,0,74,13
+2012-04-30,20658,Zabaleta,Pablo,Manchester City,43,Manchester United,1,90,0,1,0,0,31,7
+2012-03-03,20658,Zabaleta,Pablo,Manchester City,43,Bolton Wanderers,30,20,0,0,0,0,11,2
+2012-04-11,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Arsenal,3,90,0,0,1,0,28,9
+2011-12-04,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Sunderland,56,90,0,0,0,0,25,14
+2011-12-17,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Stoke City,110,90,0,0,2,0,25,14
+2011-12-20,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Norwich City,45,90,1,1,1,0,34,14
+2012-03-10,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Blackburn Rovers,5,90,0,0,1,0,36,7
+2012-03-18,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Manchester United,1,39,0,0,0,0,10,3
+2012-05-06,37847,Zubar,Ronald,Wolverhampton Wanderers,39,Everton,11,90,0,0,0,0,25,10
+2012-05-13,19714,Wilkinson,Andy,Stoke City,110,Bolton Wanderers,30,90,0,0,0,0,16,15
+2012-03-24,19714,Wilkinson,Andy,Stoke City,110,Manchester City,43,90,0,0,0,0,9,9
+2011-11-26,19714,Wilkinson,Andy,Stoke City,110,Blackburn Rovers,5,90,0,0,0,0,11,7
+2011-11-19,19714,Wilkinson,Andy,Stoke City,110,Queens Park Rangers,52,90,0,0,0,0,11,5
+2011-10-31,19714,Wilkinson,Andy,Stoke City,110,Newcastle United,4,90,0,0,0,0,19,8
+2012-02-26,12150,Whelan,Glenn,Stoke City,110,Swansea City,80,90,0,0,0,0,22,14
+2011-08-14,12150,Whelan,Glenn,Stoke City,110,Chelsea,8,90,0,1,1,0,22,10
+2011-10-15,12150,Whelan,Glenn,Stoke City,110,Fulham,54,90,0,0,1,0,42,11
+2012-01-21,12150,Whelan,Glenn,Stoke City,110,West Bromwich Albion,35,90,0,0,0,0,43,12
+2012-05-13,12150,Whelan,Glenn,Stoke City,110,Bolton Wanderers,30,90,0,0,1,0,35,10
+2012-03-24,12150,Whelan,Glenn,Stoke City,110,Manchester City,43,90,0,0,2,0,26,8
+2011-12-11,12150,Whelan,Glenn,Stoke City,110,Tottenham Hotspur,6,90,0,0,0,0,29,7
+2011-11-26,12150,Whelan,Glenn,Stoke City,110,Blackburn Rovers,5,90,1,1,0,0,30,11
+2011-11-19,12150,Whelan,Glenn,Stoke City,110,Queens Park Rangers,52,5,0,0,2,0,3,3
+2011-10-31,12150,Whelan,Glenn,Stoke City,110,Newcastle United,4,90,0,0,0,0,49,12
+2012-02-04,12150,Whelan,Glenn,Stoke City,110,Sunderland,56,90,0,0,0,0,43,15
+2012-03-03,12150,Whelan,Glenn,Stoke City,110,Norwich City,45,90,0,0,0,0,31,8
+2012-01-21,18144,Whitbread,Zak,Norwich City,45,Chelsea,8,90,0,0,0,0,27,8
+2011-12-31,18144,Whitbread,Zak,Norwich City,45,Fulham,54,90,0,2,0,0,32,10
+2011-12-10,18144,Whitbread,Zak,Norwich City,45,Newcastle United,4,83,0,0,0,0,23,9
+2012-02-04,18144,Whitbread,Zak,Norwich City,45,Bolton Wanderers,30,40,0,0,1,0,17,2
+2012-03-11,18144,Whitbread,Zak,Norwich City,45,Wigan Athletic,111,90,0,0,0,0,33,5
+2012-04-08,12297,van Persie,Robin,Arsenal,3,Manchester City,43,90,0,1,1,0,22,10
+2011-11-26,12297,van Persie,Robin,Arsenal,3,Fulham,54,90,0,3,3,0,21,14
+2011-08-20,12297,van Persie,Robin,Arsenal,3,Liverpool,14,90,0,1,0,0,15,10
+2012-02-26,12297,van Persie,Robin,Arsenal,3,Tottenham Hotspur,6,90,1,1,3,0,24,9
+2012-04-21,12297,van Persie,Robin,Arsenal,3,Chelsea,8,90,0,3,4,0,12,14
+2012-03-12,12297,van Persie,Robin,Arsenal,3,Newcastle United,4,90,1,4,2,0,19,11
+2011-09-10,12297,van Persie,Robin,Arsenal,3,Swansea City,80,81,0,0,3,0,18,7
+2012-03-10,7631,Vaughan,David,Sunderland,56,Liverpool,14,15,0,0,0,0,8,4
+2011-11-26,7631,Vaughan,David,Sunderland,56,Wigan Athletic,111,24,0,0,0,0,14,2
+2011-12-26,7631,Vaughan,David,Sunderland,56,Everton,11,81,0,0,0,0,26,7
+2011-10-29,7631,Vaughan,David,Sunderland,56,Aston Villa,7,82,0,0,1,0,34,8
+2011-09-18,7631,Vaughan,David,Sunderland,56,Stoke City,110,90,0,1,0,0,50,6
+2012-04-07,7631,Vaughan,David,Sunderland,56,Tottenham Hotspur,6,14,0,0,0,0,10,2
+2012-03-24,7631,Vaughan,David,Sunderland,56,Queens Park Rangers,52,90,0,1,1,0,55,5
+2012-01-31,19688,Sinclair,Scott,Swansea City,80,Chelsea,8,78,1,1,0,0,15,8
+2012-04-28,19688,Sinclair,Scott,Swansea City,80,Wolverhampton Wanderers,39,90,0,0,0,0,23,4
+2011-12-27,19688,Sinclair,Scott,Swansea City,80,Queens Park Rangers,52,90,0,0,0,0,24,5
+2011-08-20,19688,Sinclair,Scott,Swansea City,80,Wigan Athletic,111,90,0,0,3,0,26,3
+2011-10-02,19688,Sinclair,Scott,Swansea City,80,Stoke City,110,90,1,2,1,1,11,6
+2012-04-14,19688,Sinclair,Scott,Swansea City,80,Blackburn Rovers,5,90,0,1,2,0,29,3
+2011-08-27,19688,Sinclair,Scott,Swansea City,80,Sunderland,56,90,0,0,2,0,16,6
+2012-05-08,26793,Skrtel,Martin,Liverpool,14,Chelsea,8,90,0,1,0,0,41,1
+2011-11-05,26793,Skrtel,Martin,Liverpool,14,Swansea City,80,90,0,0,0,0,34,3
+2012-04-22,26793,Skrtel,Martin,Liverpool,14,West Bromwich Albion,35,90,0,0,0,0,34,7
+2012-02-06,26793,Skrtel,Martin,Liverpool,14,Tottenham Hotspur,6,90,0,0,0,0,37,8
+2012-01-14,26793,Skrtel,Martin,Liverpool,14,Stoke City,110,90,0,0,2,0,54,14
+2012-05-01,26793,Skrtel,Martin,Liverpool,14,Fulham,54,90,0,0,1,0,50,15
+2011-12-30,26793,Skrtel,Martin,Liverpool,14,Newcastle United,4,90,0,0,1,0,32,10
+2011-10-22,26793,Skrtel,Martin,Liverpool,14,Norwich City,45,90,0,0,1,0,33,8
