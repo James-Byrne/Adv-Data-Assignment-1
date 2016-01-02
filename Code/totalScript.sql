@@ -1,5 +1,5 @@
 
--- Created as a MySQL database and ran using the Sequel Pro application on OSX 
+-- Created as a MySQL database and ran using the Sequel Pro application on OSX
 
 drop table Stadiums;
 drop table Player_stats;
@@ -555,3 +555,11 @@ insert into Fact_Stats (date_sk, player_sk, team_sk, opponent_sk, stadium_sk, mi
 
 -- Second etl completed
 -- Tested and passed to here
+
+
+-- Query the database
+
+-- Query Ideas, 2 required
+-- Query 1 : Top 5 matches for a player
+-- Query 2 : A teams win rate versus any other team 
+-- Query 3 : What stadium does the team perform best in
