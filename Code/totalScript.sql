@@ -2,10 +2,10 @@
 -- Created as a MySQL database and ran using the Sequel Pro application on OSX
 
 -- MySQL database with the name Advanced-Databases
-create database Advanced-Databases;
+create database AdvancedDatabases;
 
 -- Switch to the Advanced-Databases database
-use Advanced-Databases;
+use AdvancedDatabases;
 
 -- Drop the tables if they already exist
 drop table Stadiums;
