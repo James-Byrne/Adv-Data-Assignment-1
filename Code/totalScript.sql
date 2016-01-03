@@ -4,8 +4,8 @@
 -- MySQL database with the name Advanced-Databases
 create database Advanced-Databases;
 
--- Switch to the Advanced-Databases database 
-user Advanced-Databases;
+-- Switch to the Advanced-Databases database
+use Advanced-Databases;
 
 -- Drop the tables if they already exist
 drop table Stadiums;
@@ -330,7 +330,7 @@ create table fact_stage (
 -- insert into the fact_stage table
 insert into fact_stage (sourceDB, team_a_id, team_b_id, player_ID, m_date, min_played, goals, shot_on, shot_off, penalty, pass_ok, pass_ko) select 1, Team_A_ID, Team_B_ID, Player_ID, M_date, MinPlayed, Goals, Shot_on, Shot_off, Penalty, Pass_OK, Pass_KO from Player_stats;
 
--- Update the Fact stage 
+-- Update the Fact stage
 update fact_stage set stadium_id=(
   select stadium_stage.stadiumID from stadium_stage
   join team_stage on stadium_stage.team_id = team_stage.team_id
@@ -586,4 +586,4 @@ where team_name="Manchester United" and year="2012"
 order by pass_ok desc;
 
 
--- Everything above tested and passed 
+-- Everything above tested and passed
