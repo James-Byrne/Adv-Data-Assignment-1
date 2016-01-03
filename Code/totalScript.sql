@@ -7,7 +7,7 @@ create database Advanced-Databases;
 -- Switch to the Advanced-Databases database 
 user Advanced-Databases;
 
-
+-- Drop the tables if they already exist
 drop table Stadiums;
 drop table Player_stats;
 drop table Matches;
@@ -27,6 +27,7 @@ drop table stadium_stage;
 drop table team_stage;
 drop table time_stage;
 
+-- Create the tables for the relational model
 create table Teams (
   TeamID int not null,
   Team_name varchar(225),
@@ -329,7 +330,7 @@ create table fact_stage (
 -- insert into the fact_stage table
 insert into fact_stage (sourceDB, team_a_id, team_b_id, player_ID, m_date, min_played, goals, shot_on, shot_off, penalty, pass_ok, pass_ko) select 1, Team_A_ID, Team_B_ID, Player_ID, M_date, MinPlayed, Goals, Shot_on, Shot_off, Penalty, Pass_OK, Pass_KO from Player_stats;
 
-
+-- Update the Fact stage 
 update fact_stage set stadium_id=(
   select stadium_stage.stadiumID from stadium_stage
   join team_stage on stadium_stage.team_id = team_stage.team_id
@@ -562,10 +563,9 @@ insert into Fact_Stats (date_sk, player_sk, team_sk, opponent_sk, stadium_sk, mi
 
 -- Second etl completed
 
-
 -- Query the database
 
--- Get a players top 5 performances measured by number of goals scored
+-- Get a players top 5 performances by a player measured by number of goals scored
 -- and display where they where and who the opponent was
 -- The example below shows the stats for the player with first name "Clint"
 select player_name, stadium_name, team_name, goals from Fact_Stats
@@ -577,7 +577,7 @@ order by goals desc
 limit 5;
 
 -- Get player with the highest pass rate on a team for a given year
--- Examplle below shows the results for the Manchester United team
+-- Example below shows the results for the Manchester United team
 select distinct player_name, player_surname, team_name, pass_ok, year from Fact_Stats
 join DimTeam on Fact_Stats.team_sk=DimTeam.team_sk
 join DimPlayer on Fact_Stats.player_sk=DimPLayer.player_sk
