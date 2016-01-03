@@ -1,0 +1,371 @@
+mysql> source ~/totalScript.sql
+ERROR 1051 (42S02): Unknown table 'test.stadiums'
+ERROR 1051 (42S02): Unknown table 'test.player_stats'
+ERROR 1051 (42S02): Unknown table 'test.matches'
+ERROR 1051 (42S02): Unknown table 'test.player'
+ERROR 1051 (42S02): Unknown table 'test.teams'
+ERROR 1051 (42S02): Unknown table 'test.holdertable'
+ERROR 1051 (42S02): Unknown table 'test.fact_stats'
+ERROR 1051 (42S02): Unknown table 'test.dimplayer'
+ERROR 1051 (42S02): Unknown table 'test.dimteam'
+ERROR 1051 (42S02): Unknown table 'test.dimtime'
+ERROR 1051 (42S02): Unknown table 'test.dimstadium'
+ERROR 1051 (42S02): Unknown table 'test.player_stage'
+ERROR 1051 (42S02): Unknown table 'test.fact_stage'
+ERROR 1051 (42S02): Unknown table 'test.stadium_stage'
+ERROR 1051 (42S02): Unknown table 'test.team_stage'
+ERROR 1051 (42S02): Unknown table 'test.time_stage'
+Query OK, 0 rows affected (0.04 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 0 rows affected (0.04 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.01 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 1 row affected (0.00 sec)
+
+Query OK, 5272 rows affected, 8844 warnings (0.17 sec)
+Records: 5272  Deleted: 0  Skipped: 0  Warnings: 8844
+
+Query OK, 452 rows affected (0.03 sec)
+Records: 452  Duplicates: 0  Warnings: 0
+
+Query OK, 380 rows affected (0.00 sec)
+Records: 380  Duplicates: 0  Warnings: 0
+
+Query OK, 4468 rows affected (0.24 sec)
+Records: 4468  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 452 rows affected (0.00 sec)
+Records: 452  Duplicates: 0  Warnings: 0
+
+Query OK, 452 rows affected (0.01 sec)
+Records: 452  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.01 sec)
+
+Query OK, 20 rows affected (0.01 sec)
+Records: 20  Duplicates: 0  Warnings: 0
+
+Query OK, 20 rows affected (0.00 sec)
+Records: 20  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.02 sec)
+
+Query OK, 20 rows affected (0.00 sec)
+Records: 20  Duplicates: 0  Warnings: 0
+
+Query OK, 20 rows affected (0.00 sec)
+Records: 20  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 380 rows affected (0.01 sec)
+Records: 380  Duplicates: 0  Warnings: 0
+
+Query OK, 380 rows affected (0.00 sec)
+Records: 380  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.03 sec)
+
+Query OK, 4468 rows affected (0.13 sec)
+Records: 4468  Duplicates: 0  Warnings: 0
+
+Query OK, 4468 rows affected (0.35 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (1.21 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (0.14 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (0.11 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (0.27 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (0.94 sec)
+Rows matched: 4468  Changed: 4468  Warnings: 0
+
+Query OK, 4468 rows affected (0.26 sec)
+Records: 4468  Duplicates: 0  Warnings: 0
+
+Query OK, 122 rows affected (0.01 sec)
+Records: 122  Deleted: 0  Skipped: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.01 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.01 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 122 rows affected (0.05 sec)
+Records: 122  Duplicates: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.05 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 7 rows affected (0.01 sec)
+Records: 7  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.04 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 0 rows affected (0.00 sec)
+Records: 0  Duplicates: 0  Warnings: 0
+
+Query OK, 122 rows affected (6.12 sec)
+Records: 122  Duplicates: 0  Warnings: 0
+
+Query OK, 122 rows affected (0.28 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 122 rows affected (0.99 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 122 rows affected (0.09 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 122 rows affected (0.09 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 122 rows affected (0.27 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 122 rows affected (0.95 sec)
+Rows matched: 4590  Changed: 122  Warnings: 0
+
+Query OK, 4590 rows affected (0.10 sec)
+Records: 4590  Duplicates: 0  Warnings: 0
+
++-------------+----------------+-------------------------+-------+
+| player_name | stadium_name   | team_name               | goals |
++-------------+----------------+-------------------------+-------+
+| Clint       | Craven Cottage | Newcastle United        |     3 |
+| Clint       | Craven Cottage | Newcastle United        |     3 |
+| Clint       | Craven Cottage | Wolverhampton Wanderers |     2 |
+| Clint       | Craven Cottage | Wolverhampton Wanderers |     2 |
+| Clint       | Craven Cottage | Chelsea                 |     1 |
++-------------+----------------+-------------------------+-------+
+5 rows in set (0.03 sec)
+
++-------------+----------------+-------------------+---------+------+
+| player_name | player_surname | team_name         | pass_ok | year |
++-------------+----------------+-------------------+---------+------+
+| Michael     | Carrick        | Manchester United |     129 | 2012 |
+| Michael     | Carrick        | Manchester United |     119 | 2012 |
+| Paul        | Scholes        | Manchester United |     114 | 2012 |
+| Paul        | Scholes        | Manchester United |     113 | 2012 |
+| Jonny       | Evans          | Manchester United |      96 | 2012 |
+| Michael     | Carrick        | Manchester United |      96 | 2012 |
+| Michael     | Carrick        | Manchester United |      92 | 2012 |
+| Michael     | Carrick        | Manchester United |      88 | 2012 |
+| Paul        | Scholes        | Manchester United |      87 | 2012 |
+| Jonny       | Evans          | Manchester United |      86 | 2012 |
+| Michael     | Carrick        | Manchester United |      83 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      81 | 2012 |
+| Jonny       | Evans          | Manchester United |      76 | 2012 |
+| Paul        | Scholes        | Manchester United |      75 | 2012 |
+| Phil        | Jones          | Manchester United |      69 | 2012 |
+| Valencia    | Antonio        | Manchester United |      69 | 2012 |
+| Michael     | Carrick        | Manchester United |      65 | 2012 |
+| Valencia    | Antonio        | Manchester United |      64 | 2012 |
+| Ryan        | Giggs          | Manchester United |      64 | 2012 |
+| Wayne       | Rooney         | Manchester United |      63 | 2012 |
+| Paul        | Scholes        | Manchester United |      63 | 2012 |
+| Valencia    | Antonio        | Manchester United |      62 | 2012 |
+| Patrice     | Evra           | Manchester United |      62 | 2012 |
+| Phil        | Jones          | Manchester United |      60 | 2012 |
+| Patrice     | Evra           | Manchester United |      59 | 2012 |
+| Michael     | Carrick        | Manchester United |      59 | 2012 |
+| Jonny       | Evans          | Manchester United |      59 | 2012 |
+| Michael     | Carrick        | Manchester United |      58 | 2012 |
+| Patrice     | Evra           | Manchester United |      56 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      54 | 2012 |
+| Chris       | Smalling       | Manchester United |      54 | 2012 |
+| Jonny       | Evans          | Manchester United |      53 | 2012 |
+| Jonny       | Evans          | Manchester United |      52 | 2012 |
+| Paul        | Scholes        | Manchester United |      51 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      51 | 2012 |
+| Valencia    | Antonio        | Manchester United |      51 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      50 | 2012 |
+| Ashley      | Young          | Manchester United |      49 | 2012 |
+| Paul        | Scholes        | Manchester United |      48 | 2012 |
+| Valencia    | Antonio        | Manchester United |      47 | 2012 |
+| Wayne       | Rooney         | Manchester United |      47 | 2012 |
+| Jonny       | Evans          | Manchester United |      46 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      46 | 2012 |
+| Wayne       | Rooney         | Manchester United |      46 | 2012 |
+| Patrice     | Evra           | Manchester United |      45 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      45 | 2012 |
+| Valencia    | Antonio        | Manchester United |      45 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      44 | 2012 |
+| Chris       | Smalling       | Manchester United |      44 | 2012 |
+| Ryan        | Giggs          | Manchester United |      44 | 2012 |
+| Valencia    | Antonio        | Manchester United |      43 | 2012 |
+| Jonny       | Evans          | Manchester United |      43 | 2012 |
+| Dimitar     | Berbatov       | Manchester United |      43 | 2012 |
+| Ashley      | Young          | Manchester United |      42 | 2012 |
+| Patrice     | Evra           | Manchester United |      42 | 2012 |
+| Wayne       | Rooney         | Manchester United |      42 | 2012 |
+| Ashley      | Young          | Manchester United |      40 | 2012 |
+| Paul        | Scholes        | Manchester United |      38 | 2012 |
+| Patrice     | Evra           | Manchester United |      38 | 2012 |
+| Danny       | Welbeck        | Manchester United |      37 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      37 | 2012 |
+| Patrice     | Evra           | Manchester United |      37 | 2012 |
+| Wayne       | Rooney         | Manchester United |      36 | 2012 |
+| Rio         | Ferdinand      | Manchester United |      36 | 2012 |
+| Wayne       | Rooney         | Manchester United |      35 | 2012 |
+| Danny       | Welbeck        | Manchester United |      35 | 2012 |
+| Ashley      | Young          | Manchester United |      35 | 2012 |
+| Valencia    | Antonio        | Manchester United |      34 | 2012 |
+| Wayne       | Rooney         | Manchester United |      33 | 2012 |
+| Patrice     | Evra           | Manchester United |      32 | 2012 |
+| Danny       | Welbeck        | Manchester United |      30 | 2012 |
+| Danny       | Welbeck        | Manchester United |      29 | 2012 |
+| Patrice     | Evra           | Manchester United |      28 | 2012 |
+| Wayne       | Rooney         | Manchester United |      27 | 2012 |
+| Ashley      | Young          | Manchester United |      26 | 2012 |
+| David       | De Gea         | Manchester United |      25 | 2012 |
+| Javier      | Hernández      | Manchester United |      24 | 2012 |
+| Ben         | Amos           | Manchester United |      23 | 2012 |
+| Ryan        | Giggs          | Manchester United |      23 | 2012 |
+| Danny       | Welbeck        | Manchester United |      21 | 2012 |
+| Tom         | Cleverley      | Manchester United |      21 | 2012 |
+| Anders      | Lindegaard     | Manchester United |      21 | 2012 |
+| Paul        | Pogba          | Manchester United |      21 | 2012 |
+| David       | De Gea         | Manchester United |      21 | 2012 |
+| Javier      | Hernández      | Manchester United |      20 | 2012 |
+| Paul        | Pogba          | Manchester United |      19 | 2012 |
+| Tom         | Cleverley      | Manchester United |      19 | 2012 |
+| David       | De Gea         | Manchester United |      19 | 2012 |
+| Ryan        | Giggs          | Manchester United |      19 | 2012 |
+| Tom         | Cleverley      | Manchester United |      18 | 2012 |
+| Javier      | Hernández      | Manchester United |      17 | 2012 |
+| David       | De Gea         | Manchester United |      17 | 2012 |
+| Danny       | Welbeck        | Manchester United |      16 | 2012 |
+| David       | De Gea         | Manchester United |      15 | 2012 |
+| David       | De Gea         | Manchester United |      13 | 2012 |
+| Paul        | Scholes        | Manchester United |      13 | 2012 |
+| Dimitar     | Berbatov       | Manchester United |      13 | 2012 |
+| Chris       | Smalling       | Manchester United |      12 | 2012 |
+| Tom         | Cleverley      | Manchester United |      11 | 2012 |
+| Dimitar     | Berbatov       | Manchester United |      10 | 2012 |
+| Javier      | Hernández      | Manchester United |       8 | 2012 |
+| Phil        | Jones          | Manchester United |       7 | 2012 |
+| Javier      | Hernández      | Manchester United |       4 | 2012 |
+| Javier      | Hernández      | Manchester United |       0 | 2012 |
++-------------+----------------+-------------------+---------+------+
+104 rows in set (0.00 sec)
+
+mysql>
