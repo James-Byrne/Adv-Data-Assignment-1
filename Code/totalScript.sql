@@ -270,7 +270,7 @@ create table stadium_stage (
 insert into stadium_stage (stadiumID, sourceDB, st_name, city, capacity, team_id) select StadiumID, 1, St_name, City, Capacity, TeamID from Stadiums;
 
 -- Insert the data into the Dim Table
-insert into DimStadium (stadium_sk, stadium_name, stadium_city, capacity) select stadium_sk, stadiumID, city, capacity from stadium_stage;
+insert into DimStadium (stadium_sk, stadium_name, stadium_city, capacity) select stadium_sk, st_name, city, capacity from stadium_stage;
 
 
 
@@ -558,8 +558,3 @@ insert into Fact_Stats (date_sk, player_sk, team_sk, opponent_sk, stadium_sk, mi
 
 
 -- Query the database
-
--- Query Ideas, 2 required
--- Query 1 : Top 5 matches for a player
--- Query 2 : A teams win rate versus any other team 
--- Query 3 : What stadium does the team perform best in
