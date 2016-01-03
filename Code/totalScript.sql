@@ -1,6 +1,13 @@
 
 -- Created as a MySQL database and ran using the Sequel Pro application on OSX
 
+-- MySQL database with the name Advanced-Databases
+create database Advanced-Databases;
+
+-- Switch to the Advanced-Databases database 
+user Advanced-Databases;
+
+
 drop table Stadiums;
 drop table Player_stats;
 drop table Matches;
